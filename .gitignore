@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+*.iml
+.DS_Store
+.DS_Store?
